@@ -1,12 +1,10 @@
 # Refactor-work
-Making the Horizon website more accessible 
+                                          Making the Horiseon website more accessible 
 
-# Horizon-code-refactor
-Making the site more accessible 
 
 Horiseon - Social Solution Services Project.
 
-This project is a website focusing on SEO Online Reputation Management, and Social Media Marketing.
+
 
 Table of Contents: 
 - Description
@@ -53,4 +51,7 @@ Installation:
 5. Github properties:
 - The name of the GitHub repository:Refactor-work
 - The URL of the GitHub repository:https://github.com/Nickncb96/Refactor-work.git
-- The URL of the deployed application: 
+- The URL of the deployed application: https://nickncb96.github.io/Refactor-work/
+
+Screenshot of the page
+![Alt text](horiseon-screenshot.jpg)
